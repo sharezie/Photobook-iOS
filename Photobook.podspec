@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.module_name         = 'Photobook'
   s.dependency "KeychainSwift", "~> 17.0.0"
   s.dependency "SDWebImage", "~> 5.2.0"
-  s.dependency "Stripe", "~> 18.0.0"
+  s.dependency "Stripe", "~> 19.3.0"
   s.dependency "Analytics", "~> 3.7.0"
   s.dependency "PayPal-iOS-Dynamic-Loader"
 
